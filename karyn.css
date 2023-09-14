@@ -1,0 +1,21 @@
+.logo{
+   text-align: center;
+}
+.textos{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    gap: 150px;
+
+}
+ul{
+    display: flex;
+    flex-direction: row;
+    gap: 25px;
+}
+div {
+
+    background-image: url("imagem.png");
+    background-position: right center
+
+}
